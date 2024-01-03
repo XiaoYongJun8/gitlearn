@@ -36,7 +36,7 @@
 app_log_t log_vems;
 vems_t g_vems;
 int g_ipc_msgid = 0;
-
+#define LEARN_GIT_CHANGE_CONTEXT  0
 /*********************************************************************
 * @fn	    resouce_clean
 * @brief    进程资源回收
