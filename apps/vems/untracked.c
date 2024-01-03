@@ -11,3 +11,4 @@
 
 #define Untracked_LEARN  0 
 #define FIRST_CHANGE_AND 1
+#define SECOND_CHANGE_NOAND 2
